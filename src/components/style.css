@@ -1,0 +1,30 @@
+.basic {
+    color: white;
+    width: 10rem;
+    height: 5rem;
+    border: 1px solid gray;
+    margin: auto;
+}
+.comp-a {
+    background-color: black;
+   
+}
+.comp-b {
+    background-color:red;
+}
+
+.comp-c {
+    background-color:rgb(158, 158, 7);
+}
+
+.condition {
+    height: 20vh;
+    width: 20vw;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(240, 238, 238);
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+
+}
